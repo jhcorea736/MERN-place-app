@@ -74,3 +74,12 @@ In **development** it is necessary to have the following configuration in the **
   }
 }
 ```
+
+---
+
+![1](https://user-images.githubusercontent.com/57587904/249058624-5c1937af-6bb2-47e5-ae8c-de8f6c6129ec.png)
+![2](https://user-images.githubusercontent.com/57587904/249058634-e58d3b9e-f07f-4ae5-a7d8-f41a882785ee.png)
+![3](https://user-images.githubusercontent.com/57587904/249058641-12464edc-4b46-41f1-8106-05f6ee1008a6.png)
+![4](https://user-images.githubusercontent.com/57587904/249058663-c3022272-86e6-4cec-8221-7beb50a1a32c.png)
+![5](https://user-images.githubusercontent.com/57587904/249058678-225c0515-9c02-4d7f-8cf3-dc4fa3b77e33.png)
+![6](https://user-images.githubusercontent.com/57587904/249058707-912b6b0b-9846-43df-9293-fe96fdbccae0.png)

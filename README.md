@@ -36,10 +36,15 @@ MongoDB, Express, React, Node.js, Google Geocoding API, Google Maps JavaScript A
 ### Development Environment
 
 **Workspace** : Apple MacBook Air 2020 M1
+
 **IDE** : Visual Studio Code
+
 **MongoDB** : v6.0.6
+
 **Express** : v4.18.2
+
 **React** : v16.11.0
+
 **Node.js** : v19.7.0
 
 ---
